@@ -1,0 +1,23 @@
+api:
+  base_url: "https://api.example.com"
+  endpoints:
+    - "/users"
+    - "/products"
+    - "/orders"
+  headers:
+    User-Agent: "API-Security-Scanner/1.0"
+
+thresholds:
+  max_risk_score: 7.0
+  max_critical_vulnerabilities: 1
+  max_high_vulnerabilities: 3
+
+notifications:
+  slack:
+    webhook_url: "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+  discord:
+    webhook_url: "https://discord.com/api/webhooks/YOUR/WEBHOOK/URL"
+
+report:
+  format: "json"
+  output_dir: "./reports" 
