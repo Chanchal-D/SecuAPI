@@ -88,4 +88,4 @@ Chanchal - chanchalkuntal398@gmail.com
 Project Link: [https://github.com/Chanchal-D/SecuAPI](https://github.com/Chanchal-D/SecuAPI)
 
 ---
-⭐ Star us on GitHub — it motivates us a lot!" > README.md
+⭐ Star us on GitHub — it motivates us a lot!
