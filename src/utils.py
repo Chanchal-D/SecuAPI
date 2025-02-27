@@ -2,6 +2,7 @@ import json
 from typing import Dict, List
 from .models.vulnerability import Vulnerability
 import requests
+from datetime import datetime
 
 def load_config(config_path: str) -> Dict:
     with open(config_path, 'r') as f:
