@@ -79,7 +79,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
 
 ## 📬 Contact
 
@@ -89,10 +89,3 @@ Project Link: [https://github.com/Chanchal-D/SecuAPI](https://github.com/Chancha
 
 ---
 ⭐ Star us on GitHub — it motivates us a lot!" > README.md
-
-# Add and commit the README
-git add README.md
-git commit -m "Update README with attractive documentation and emojis"
-
-# Push to GitHub
-git push origin master
